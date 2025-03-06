@@ -1,5 +1,6 @@
 https://drive.google.com/file/d/1-LrqqDKbzIwkZ5M4j8_6vTMAVL7CEq3G/view?usp=sharing
-open this extract and double click on .bat file
+open this extract and double click on .bat file 
+working on this again to make it able to run on any windows directly
 
 # Task Manager App
 
@@ -78,13 +79,11 @@ Ensure you have the following installed:
 ![Battery Management](./screenshots/battery_management.png)
 
 ## 📌 Future Enhancements
-- Add **Dark Mode Support**.
+- pyspectator (cross os library) is having dependency issues
+- GPUtil is causing issues due to updated GPU drivers
 - Improve process filtering options.
 - Enhance GPU monitoring for **AMD GPUs**.
 - Add customizable alert notifications for **high CPU & memory usage**.
-
-## 📄 License
-This project is licensed under the **MIT License**.
 
 ## 🤝 Contributing
 Feel free to fork the repo, create feature branches, and submit pull requests.
