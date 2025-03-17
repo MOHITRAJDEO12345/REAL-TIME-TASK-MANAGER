@@ -2,6 +2,9 @@ https://drive.google.com/file/d/1-LrqqDKbzIwkZ5M4j8_6vTMAVL7CEq3G/view?usp=shari
 open this extract and double click on .bat file 
 working on this again to make it able to run on any windows directly
 
+
+- YOUTUBE https://youtu.be/eyDMbcqP1Y4
+- DOCKER HUB - coming soon
 # Task Manager App
 
 ## 📌 Overview
