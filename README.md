@@ -51,11 +51,12 @@ Ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/task-manager-app.git
-   cd task-manager-app
+   cd REAL-TIME-TASK-MANAGER
    ```
 2. Create a virtual environment (optional but recommended):
    ```bash
-   python -m venv env
+   pip install virtualenv
+   python -m virtualenv env
    source env/bin/activate  # On Windows: env\Scripts\activate
    ```
 3. Install dependencies:
